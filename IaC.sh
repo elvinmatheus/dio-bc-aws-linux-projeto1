@@ -1,6 +1,6 @@
 echo "Iniciando configurações..."
 
-#! bin/bash
+#! /bin/bash
 
 mkdir /publico /adm /ven /sec /publico
 
